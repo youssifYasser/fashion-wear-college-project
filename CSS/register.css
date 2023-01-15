@@ -1,0 +1,28 @@
+@charset "utf-8";
+.head1{
+	margin-left: 35%;
+	margin-bottom: 2%;
+	margin-top: 1%;
+	text-decoration: underline;
+}
+.row{
+	display: inline-flex;
+}
+.main{
+	border: solid;
+	border-radius: 15px;
+	box-shadow: 0 0px 20px 2px black;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-left: 15%;
+}
+.main button:hover{
+	color:#17a2b8;
+	font-weight: bold;
+	background-color: ivory;
+	border:3px solid #17a2b8;
+}
+
+
+

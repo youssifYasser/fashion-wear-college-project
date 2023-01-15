@@ -1,0 +1,23 @@
+.t
+{
+	display: inline-block;
+	border: dashed #0469F5;
+	
+	background-color:antiquewhite;
+	padding: 0px;
+	
+}
+.t2
+{
+	padding: 66px 0px 65px 0px;
+}
+.t3
+{
+	border-right:none  ;
+	border-radius: 10px 0px 0px 10px;
+}
+.t4
+{
+	border-left:none ;
+	border-radius: 0px 10px 10px 0px;
+}

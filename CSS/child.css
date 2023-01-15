@@ -1,0 +1,18 @@
+.row{
+	margin-top: 2rem;
+}
+img {
+  border: 0px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 0px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.7);
+}
+.main
+{
+    margin-left: 322px;
+}

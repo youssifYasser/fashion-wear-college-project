@@ -1,0 +1,53 @@
+body
+{
+    background-image: url(../IMAGE/Logo2.PNG)
+}
+nav{
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+nav ul a{
+	color:#eeeeee;
+}
+nav ul a:hover{
+	color:#bcbcbc;
+}
+.row{
+	margin-top: 2rem;
+}
+img {
+  border: 0px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 0px; /* Some padding */
+  width: 100%; /* Set a small width */
+	height: 500px;
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.7);
+}
+.main
+{
+	float: right;
+	margin-bottom: 2rem;
+}
+.card{
+	display: inline-block;
+	width: inherit;
+	height: 100%;
+}
+.card .container{
+	text-align: center;
+}
+.card h2{
+	text-shadow: 2px 3px 0px lightgrey; 
+}
+.custom-select-sm{
+	padding: .37rem ;
+	font-size: 75%;
+	font-family: Comic Sans MS;
+}
+.btn{
+	width:50%;
+}
